@@ -1,22 +1,7 @@
-mamercad.netdata
+ansible-netdata
 ================
 
-Stands up Netdata on RHEL/CentOS
-
-Requirements
-------------
-
-None
-
-Role Variables
---------------
-
-None
-
-Dependencies
-------------
-
-None
+Stands up Netdata on RHEL/CentOS/Amazon Linux
 
 Example Playbook
 ----------------
@@ -33,4 +18,5 @@ GPLv3
 Author Information
 ------------------
 
-Mark Mercado <mamercad@umflint.edu>
+Original play made by Mark Mercado <mamercad@umflint.edu>
+Forked and updated for Amazon Linux by Timothy Adams <timadams@skipladdr.com>
