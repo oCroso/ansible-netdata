@@ -19,4 +19,5 @@ Author Information
 ------------------
 
 Original play made by Mark Mercado <mamercad@umflint.edu>
+
 Forked and updated for Amazon Linux by Timothy Adams <timadams@skipladdr.com>
